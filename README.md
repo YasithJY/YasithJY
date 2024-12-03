@@ -32,6 +32,10 @@ Welcome to my little corner of GitHub! Here, you'll find my journey through the 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 ---
 
