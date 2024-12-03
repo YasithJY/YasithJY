@@ -40,11 +40,6 @@ Welcome to my little corner of GitHub! Here, you'll find my journey through the 
 
 ---
 
-### 🌟 Top Contributed Repo
-[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=YasithJY&repo=top-contributed-repo-name&theme=radical)](https://github.com/YasithJY/top-contributed-repo-name)
-
----
-
 ### 🌐 Let's Connect
 - 📸 [Instagram](https://www.instagram.com/yasith.jy/)  
 - 📘 [Facebook](https://www.facebook.com/Yasith.JY)  
