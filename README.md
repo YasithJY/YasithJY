@@ -10,7 +10,7 @@ Welcome to my little corner of GitHub! Here, you'll find my journey through the 
 - 🎓 **Interactive Media Undergraduate** with a passion for **web development**, **UI/UX design**, and **game development**.
 - 🛠️ Experienced in **React**, **Node.js**, **Android Studio**, and **Tailwind CSS**.
 - 🎮 Avid **GTA V** player and an admirer of immersive game design.
-- 🎨 Skilled in **graphic design**, **3D modeling**, and crafting **engaging user interfaces**.
+- 🎨 Interested in **graphic design**, **3D modeling**, and crafting **engaging user interfaces**.
 - ☕ Always up for **good vibes**, **great convos**, and a cup of coffee!
 
 ---
