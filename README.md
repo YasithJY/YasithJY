@@ -40,16 +40,16 @@ Welcome to my little corner of GitHub! Here, you'll find my journey through the 
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
-Here's a snapshot of my GitHub journey and my daily coding habits!
-
-![YasithJY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasithJY&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YasithJY&show_icons=true&theme=radical" alt="YasithJY's GitHub Stats" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
